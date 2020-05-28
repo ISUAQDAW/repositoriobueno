@@ -83,9 +83,9 @@
             this.Teléfono.AutoSize = true;
             this.Teléfono.Location = new System.Drawing.Point(496, 37);
             this.Teléfono.Name = "Teléfono";
-            this.Teléfono.Size = new System.Drawing.Size(49, 13);
+            this.Teléfono.Size = new System.Drawing.Size(32, 13);
             this.Teléfono.TabIndex = 5;
-            this.Teléfono.Text = "Teléfono";
+            this.Teléfono.Text = "Móvil";
             // 
             // button1
             // 
