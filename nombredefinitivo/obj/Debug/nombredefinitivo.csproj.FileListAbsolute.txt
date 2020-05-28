@@ -1,0 +1,9 @@
+C:\Users\ismae\Source\Repos\ISUAQDAW\repositoriobueno\nombredefinitivo\bin\Debug\nombredefinitivo.exe.config
+C:\Users\ismae\Source\Repos\ISUAQDAW\repositoriobueno\nombredefinitivo\bin\Debug\nombredefinitivo.exe
+C:\Users\ismae\Source\Repos\ISUAQDAW\repositoriobueno\nombredefinitivo\bin\Debug\nombredefinitivo.pdb
+C:\Users\ismae\Source\Repos\ISUAQDAW\repositoriobueno\nombredefinitivo\obj\Debug\nombredefinitivo.csprojAssemblyReference.cache
+C:\Users\ismae\Source\Repos\ISUAQDAW\repositoriobueno\nombredefinitivo\obj\Debug\nombredefinitivo.Form1.resources
+C:\Users\ismae\Source\Repos\ISUAQDAW\repositoriobueno\nombredefinitivo\obj\Debug\nombredefinitivo.Properties.Resources.resources
+C:\Users\ismae\Source\Repos\ISUAQDAW\repositoriobueno\nombredefinitivo\obj\Debug\nombredefinitivo.csproj.GenerateResource.cache
+C:\Users\ismae\Source\Repos\ISUAQDAW\repositoriobueno\nombredefinitivo\obj\Debug\nombredefinitivo.exe
+C:\Users\ismae\Source\Repos\ISUAQDAW\repositoriobueno\nombredefinitivo\obj\Debug\nombredefinitivo.pdb

@@ -16,5 +16,15 @@ namespace nombredefinitivo
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nombre = tNombre.Text;
+            string apellidos = tApellidos.Text;
+            string telefono = tTelefono.Text;
+            tListaSocios.Text = nombre + " " + apellidos + " / " + telefono;
+            
+
+        }
     }
 }
